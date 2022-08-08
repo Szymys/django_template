@@ -1,5 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,django,linux,macos,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,django,linux,macos,venv
+env/.env
+staticfiles/*
+
 
 ### Django ###
 *.log
@@ -134,7 +137,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+
 venv/
 ENV/
 env.bak/
