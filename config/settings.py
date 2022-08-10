@@ -97,7 +97,7 @@ db_config = dj_database_url.config(default=DATABASE_URL, conn_max_age=500, ssl_r
 
 
 
-DATABASES['default'].update(db_config)
+# DATABASES['default'].update(db_config)
 
 
 # Password validation

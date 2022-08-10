@@ -9,6 +9,8 @@ django-environ = "==0.9.0"
 pytest-django = "*"
 pytest-cov = "==3.0.0"
 dj-database-url = "==1.0.0"
+psycopg2-binary = "*"
+docker = "*"
 
 [dev-packages]
 
