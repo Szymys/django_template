@@ -10,7 +10,7 @@
 - Poc - proof of concept
 - MVP - minimum value product
 - Product
-- DB - conntection
+- DB - connection string
 - ymal - yet another markup language
 - CDN - content delivery network (ClaudFront (AWS))
 - minification - remope white signs/characters/symbols

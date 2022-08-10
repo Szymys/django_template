@@ -2,6 +2,7 @@ asgiref==3.5.2
 attrs==22.1.0
 backports.zoneinfo==0.2.1
 coverage==6.4.3
+dj-database-url==1.0.0
 Django==4.1
 django-environ==0.9.0
 iniconfig==1.1.1
