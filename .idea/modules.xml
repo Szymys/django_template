@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/django_db_docker/.idea/django_db_docker.iml" filepath="$PROJECT_DIR$/django_db_docker/.idea/django_db_docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/django_template.iml" filepath="$PROJECT_DIR$/.idea/django_template.iml" />
     </modules>
   </component>
